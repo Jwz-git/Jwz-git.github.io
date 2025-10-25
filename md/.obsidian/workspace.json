@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "c36eec6eb0f4dd40",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d25fd894754318f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9ffc88fef3fd352",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CMake学习笔记.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CMake学习笔记"
+            }
+          }
+        ]
+      },
+      {
+        "id": "947db99840b9e58c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "727bbb864f5092a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CMake学习笔记.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CMake学习笔记"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1807cf26cb4c2ffc",
+    "type": "split",
+    "children": [
+      {
+        "id": "76209602cb180e4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48e3d1fc7851273d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "d9c9ef70860527a0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "d2f41876cc05cf94",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e7680a30e89bfb8e",
+    "type": "split",
+    "children": [
+      {
+        "id": "dea9ce346d4383e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "422c96d1962ab967",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CMake学习笔记.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "CMake学习笔记 的反向链接列表"
+            }
+          },
+          {
+            "id": "61c978ae984573b3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CMake学习笔记.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "CMake学习笔记 的出链列表"
+            }
+          },
+          {
+            "id": "657984a254e2fb95",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "fd5496f6f3cf98f5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CMake学习笔记.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "CMake学习笔记 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false
+    }
+  },
+  "active": "727bbb864f5092a9",
+  "lastOpenFiles": [
+    "CMake学习笔记.md",
+    "一些想法.md",
+    "为什么会有短学期.md",
+    "七夕学习体验(PySide6学习初体验).md",
+    "待定的一些事.md"
+  ]
+}
